@@ -10,13 +10,12 @@ Installing socket with pip
 pip install socket
 ```
 ### Running the script
-Open terminal the folder when the script is and run:
-
+Open terminal in the folder when the script is and run:
 ```
 python hw1.py IP [IP...]
 ```
 
 Quick test for the script:
 ```
-python hw1.py 127.0.0.2 127.0.0.3 127.0.0.4 127.0.0.9 127.0.0.10 127.0.0.11 localhost 114.231.105.37
+python hw1.py 127.0.0.2 127.0.0.3 127.0.0.4 127.0.0.9 127.0.0.10 127.0.0.11 114.231.105.37 8.8.8.8
 ```
