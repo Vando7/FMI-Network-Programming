@@ -3,6 +3,7 @@ Written in [Python 3.8.2](https://www.python.org/downloads/). I also used [pip](
 
 ## Prerequisites 
 [Python](https://www.python.org/downloads)
+
 pip for [Windows](https://www.liquidweb.com/kb/install-pip-windows) or [Linux](https://www.tecmint.com/install-pip-in-linux/)
 
 To install 'socket' run the following in a terminal
