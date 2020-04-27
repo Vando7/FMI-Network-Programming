@@ -12,7 +12,7 @@ pip install socket
 ```
 
 ## Running the script
-Open terminal in the folder when the script is and run:
+Open terminal in the folder where the script is and run:
 ```
 python hw1.py IP [IP...]
 ```
