@@ -1,7 +1,7 @@
 import socket
-import sys      # For parsing command line args
+import sys 
 
-iplist = sys.argv[1:]
+iplist = sys.argv[1:] 
 if len(iplist) == 0 :
     print("No IP adresses given")
     exit(0)
